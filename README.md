@@ -1,8 +1,14 @@
-# lumocue-agent-integrations
-Physical status light integrations for Claude Code and AI coding agents — stop watching the terminal.
 # LumoCue — Physical Status Light for AI Coding Agents
 
 **Stop watching the terminal. Let your AI agent signal you.**
+
+## See LumoCue in Action
+
+▶️ **[Watch the LumoCue + Claude Code demo](https://github.com/lumocue-hue/lumocue-agent-integrations/blob/main/docs/lumocue-claude-code-demo.mp4)**
+
+See LumoCue move Claude Code status off the screen:
+
+🔵 **Working** → 🟢 **Finished / ready** → 🔴 **Needs attention**
 
 LumoCue is a physical USB status light designed for AI coding workflows.
 

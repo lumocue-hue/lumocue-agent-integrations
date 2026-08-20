@@ -4,11 +4,11 @@
 
 ## See LumoCue in Action
 
-▶️ **[Watch the LumoCue + Claude Code demo](https://github.com/lumocue-hue/lumocue-agent-integrations/blob/main/docs/lumocue-claude-code-demo.mp4)**
-
-See LumoCue move Claude Code status off the screen:
+![LumoCue physical status light demonstrating Claude Code working, finished, and needs-attention states](docs/lumocue-claude-code-preview.gif)
 
 🔵 **Working** → 🟢 **Finished / ready** → 🔴 **Needs attention**
+
+LumoCue moves your AI coding agent's status off the screen and into your peripheral vision.
 
 LumoCue is a physical USB status light designed for AI coding workflows.
 
